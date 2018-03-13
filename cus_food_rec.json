@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "customerId": 1,
+        "foodId": 1,
+        "itemData": [
+            {
+                "name": "Energy",
+                "unit": "kg.cal",
+                "value": 702.26
+            },
+            {
+                "name": "Carbohydrate",
+                "unit": "g.",
+                "value": 65.975
+            },
+            {
+                "name": "Protein",
+                "unit": "g.",
+                "value": 37.635
+            },
+            {
+                "name": "Fat",
+                "unit": "g.",
+                "value": 31.6875
+            },
+            {
+                "name": "Sodium",
+                "unit": "mg.",
+                "value": 908.5887
+            }
+        ],
+        "foodType": "breakfast",
+        "createAt": 1519287776394,
+        "updateAt": 1519287776394,
+        "deleteAt": 1519287776394
+    },
+    {
+        "id": 1,
+        "customerId": 1,
+        "foodId": 1,
+        "itemData": [
+            {
+                "name": "Energy",
+                "unit": "kg.cal",
+                "value": 702.26
+            },
+            {
+                "name": "Carbohydrate",
+                "unit": "g.",
+                "value": 65.975
+            },
+            {
+                "name": "Protein",
+                "unit": "g.",
+                "value": 37.635
+            },
+            {
+                "name": "Fat",
+                "unit": "g.",
+                "value": 31.6875
+            },
+            {
+                "name": "Sodium",
+                "unit": "mg.",
+                "value": 908.5887
+            }
+        ],
+        "foodType": "launch",
+        "createAt": 1519287776394,
+        "updateAt": 1519287776394,
+        "deleteAt": 1519287776394
+    },
+    {
+        "id": 1,
+        "customerId": 1,
+        "foodId": 1,
+        "itemData": [
+            {
+                "name": "Energy",
+                "unit": "kg.cal",
+                "value": 702.26
+            },
+            {
+                "name": "Carbohydrate",
+                "unit": "g.",
+                "value": 65.975
+            },
+            {
+                "name": "Protein",
+                "unit": "g.",
+                "value": 37.635
+            },
+            {
+                "name": "Fat",
+                "unit": "g.",
+                "value": 31.6875
+            },
+            {
+                "name": "Sodium",
+                "unit": "mg.",
+                "value": 908.5887
+            }
+        ],
+        "foodType": "breakfast",
+        "createAt": 1519287776394,
+        "updateAt": 1519287776394,
+        "deleteAt": 1519287776394
+    },
+    {
+        "id": 1,
+        "customerId": 1,
+        "foodId": 1,
+        "itemData": [
+            {
+                "name": "Energy",
+                "unit": "kg.cal",
+                "value": 702.26
+            },
+            {
+                "name": "Carbohydrate",
+                "unit": "g.",
+                "value": 65.975
+            },
+            {
+                "name": "Protein",
+                "unit": "g.",
+                "value": 37.635
+            },
+            {
+                "name": "Fat",
+                "unit": "g.",
+                "value": 31.6875
+            },
+            {
+                "name": "Sodium",
+                "unit": "mg.",
+                "value": 908.5887
+            }
+        ],
+        "foodType": "dinner",
+        "createAt": 1519287776394,
+        "updateAt": 1519287776394,
+        "deleteAt": 1519287776394
+    },
+    {
+        "id": 1,
+        "customerId": 1,
+        "foodId": 1,
+        "itemData": [
+            {
+                "name": "Energy",
+                "unit": "kg.cal",
+                "value": 702.26
+            },
+            {
+                "name": "Carbohydrate",
+                "unit": "g.",
+                "value": 65.975
+            },
+            {
+                "name": "Protein",
+                "unit": "g.",
+                "value": 37.635
+            },
+            {
+                "name": "Fat",
+                "unit": "g.",
+                "value": 31.6875
+            },
+            {
+                "name": "Sodium",
+                "unit": "mg.",
+                "value": 908.5887
+            }
+        ],
+        "foodType": "breakfast",
+        "createAt": 1519287776394,
+        "updateAt": 1519287776394,
+        "deleteAt": 1519287776394
+    }
+     
+]

@@ -1,0 +1,48 @@
+{
+    "last": false,
+    "totalElements": 20,
+    "totalPages": 7,
+    "size": 3,
+    "number": 0,
+    "sort": null,
+    "first": true,
+    "numberOfElements": 3,
+    "content": [
+        {
+            "id": 1,
+            "name": "แกงจืดวุ้นเส้นหมูสับ",
+            "detail": "กะปิ",
+            "thumbnail": "https://scm-assets.constant.co/scm/unilever/e9dc924f238fa6cc29465942875fe8f0/42c8b51a-4f83-44ab-ab93-604db6e2c9ec.jpg",
+            "itemData": [
+                {
+                    "name": "Energy",
+                    "unit": "kg.cal",
+                    "value": 225
+                },
+                {
+                    "name": "Carbohydrate",
+                    "unit": "g.",
+                    "value": 18
+                },
+                {
+                    "name": "Protein",
+                    "unit": "g.",
+                    "value": 23
+                },
+                {
+                    "name": "Fat",
+                    "unit": "g.",
+                    "value": 7
+                },
+                {
+                    "name": "Sodium",
+                    "unit": "mg.",
+                    "value": 1347
+                }
+            ],
+            "createAt": 1519287776394,
+            "updateAt": 1519287776394,
+            "deleteAt": 1519287776394
+        }
+    ]
+}
